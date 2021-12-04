@@ -2,7 +2,7 @@
 <p align="center">
      <img src="https://komarev.com/ghpvc/?username=mertcelik2196&label=Profile%20views&color=0e75b6&style=flat"/>
   <br><br>
-  <a href="https://www.npmjs.com/https:/~butzmod"><img src="https://img.shields.io/badge/mert..1010%20-1d202b.svg?&style=for-the-badge&logo=npm&logoColor=white" /></a><br>
+  <a href="https://www.npmjs.com/https:/~butzmod"><img src="https://img.shields.io/badge/~butzmod%20-1d202b.svg?&style=for-the-badge&logo=npm&logoColor=white" /></a><br>
 <br>
   <a href="https://discord.com/users/797904178223644672" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a><br>
   <a href="https://open.spotify.com/user/hcvt85nbj1cnqfz9ggn2span3" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a><br>
